@@ -1,0 +1,10 @@
+{
+  "name": "ruby-scaffolding",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+    "heroku-postgresql"
+  ]
+}
